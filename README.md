@@ -1,5 +1,5 @@
 - 👋 Hi, I’m foad
-- 👀 I’m interested in golang and java
+- 👀 I’m interested in golang
 - 🌱 💞️ I’m looking to collaborate on new golang projects
 - 📫 How to reach me: foad_momtazi@hotmail.com
 
